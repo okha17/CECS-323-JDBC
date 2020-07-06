@@ -1,0 +1,421 @@
+run:
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+1
+
+Displaying Writing Groups:
+A Pimp Named Slickback Writing
+Big Homie Writing Coalition
+CSULB Writing
+Cooking Gods
+CoronaChan Writing Group
+FGC Writing Corporation
+Flat Earth Writing
+
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+2
+
+Displaying Writing Groups:
+A Pimp Named Slickback Writing
+Big Homie Writing Coalition
+CSULB Writing
+Cooking Gods
+CoronaChan Writing Group
+FGC Writing Corporation
+Flat Earth Writing
+
+Enter the name of the writing group
+Cooking Gods
+Group Name: Cooking Gods
+Head Writer: Gordon Ramsay
+Year Formed: 2013
+Subject: Food and Cooking
+Book Title: Cooking Water: Easier than You Think!
+Publisher Name: Shakey Johnson
+Year Published: 1962
+Number of Pages: 239
+Publisher Address: 123 Shakey Avenue
+Publisher Phone: 5629700239
+Publisher Email: shakeyjohnson@shakeyjohnson.net
+
+Group Name: Cooking Gods
+Head Writer: Gordon Ramsay
+Year Formed: 2013
+Subject: Food and Cooking
+Book Title: How to Synthesize Lasagna
+Publisher Name: Corona-chan
+Year Published: 2020
+Number of Pages: 622
+Publisher Address: 492 Corona Avenue
+Publisher Phone: 3137293815
+Publisher Email: coronaDisease@cdc.edu
+
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+3
+Displaying Publisher Names:
+Alex Jones
+Corona-chan
+Daigo Umehara
+James Eddins
+Phuong Nguyen
+Rudolph von Heimindinger
+Shakey Johnson
+Slick Rick
+Sonic Fox
+Tyler Okonma
+
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+4
+Displaying Publisher Names:
+Alex Jones
+Corona-chan
+Daigo Umehara
+James Eddins
+Phuong Nguyen
+Rudolph von Heimindinger
+Shakey Johnson
+Slick Rick
+Sonic Fox
+Tyler Okonma
+
+Enter the name of the Publisher you are searching for:
+PublisherName: 
+Sonic Fox
+Displaying Data for Publisher
+
+PublisherName: Sonic Fox
+GroupName: FGC Writing Corporation
+PublisherAddress: 6924 S Oki Avenue
+PublisherPhone: 3106924703
+PublisherEmail: furryFGG@gmail.com
+BookTitle: GT Goku and How to Kill that Little Rat
+YearPublished: 2018
+NumberPages: 132
+Head Writer: Joseph Marquez
+YearFormed: 1996
+Subject: Education
+
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+5
+Displaying Book Titles:
+CECS: Disfunctional Chaos
+Cooking Water: Easier than You Think!
+Detecting a Big Homie: How to Be Safe
+GT Goku and How to Kill that Little Rat
+Gravity: Does it Really Exist?
+How to Be a Big Homie
+How to Defeat Corona-chan
+How to Get Money Fast
+How to Live Rent Free in the Head of an Opponent!
+How to Overcharge for Parking
+How to Synthesize Lasagna
+Nothing We Believe In is Actually Right
+The Daigo Parry and Why it Was Cool
+The Rap Game
+
+
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+6
+Names of the Writing Groups: 
+
+CoronaChan Writing Group
+Big Homie Writing Coalition
+A Pimp Named Slickback Writing
+FGC Writing Corporation
+CSULB Writing
+Flat Earth Writing
+Cooking Gods 
+
+Enter the WritingGroup Name: 
+Cooking Gods
+Displaying Book Titles:
+Cooking Water: Easier than You Think!
+How to Synthesize Lasagna
+
+Enter the title of the Book: 
+How to Synthesize Lasagna
+
+Group Name: Cooking Gods
+Head Writer: Gordon Ramsay
+Year Formed: 2013
+Subject: Food and Cooking
+Book Title: How to Synthesize Lasagna
+Publisher Name: Corona-chan
+Year Published: 2020
+Number of Pages: 622
+Publisher Address: 492 Corona Avenue
+Publisher Phone: 3137293815
+Publisher Email: coronaDisease@cdc.edu
+
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+7
+Enter the book information
+
+Select from these WritingGroups 
+A Pimp Named Slickback Writing
+Big Homie Writing Coalition
+CSULB Writing
+Cooking Gods
+CoronaChan Writing Group
+FGC Writing Corporation
+Flat Earth Writing
+GroupName: 
+Flat Earth Writing
+Select from these Publisher Names:
+Alex Jones
+Corona-chan
+Daigo Umehara
+James Eddins
+Phuong Nguyen
+Rudolph von Heimindinger
+Shakey Johnson
+Slick Rick
+Sonic Fox
+Tyler Okonma
+
+PublisherName: 
+Slick Rick
+BookTitle: 
+The Ice Walls
+YearPublished: 
+2011
+NumberPages: 
+423
+Inserted into table!
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+5
+Displaying Book Titles:
+CECS: Disfunctional Chaos
+Cooking Water: Easier than You Think!
+Detecting a Big Homie: How to Be Safe
+GT Goku and How to Kill that Little Rat
+Gravity: Does it Really Exist?
+How to Be a Big Homie
+How to Defeat Corona-chan
+How to Get Money Fast
+How to Live Rent Free in the Head of an Opponent!
+How to Overcharge for Parking
+How to Synthesize Lasagna
+Nothing We Believe In is Actually Right
+The Daigo Parry and Why it Was Cool
+The Ice Walls
+The Rap Game
+
+
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+8
+Displaying Publisher Names:
+Alex Jones
+Corona-chan
+Daigo Umehara
+James Eddins
+Phuong Nguyen
+Rudolph von Heimindinger
+Shakey Johnson
+Slick Rick
+Sonic Fox
+Tyler Okonma
+
+Which of these Publishers would you liked to be replaced by the new Publisher?
+Enter old Publisher Name: 
+Tyler Okonma
+Enter new Publisher information 
+New PublisherName: 
+Osman Khan
+New PublisherAddress: 
+Valley View
+New PublisherPhone: 
+1231231231
+New PublisherEmail: 
+osmankhan@gmail.com
+
+Group Name: A Pimp Named Slickback Writing
+Book Title: The Rap Game
+Publisher Name: Osman Khan
+Year Published: 2011
+Number of Pages: 402
+
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+9
+List of writing groups:
+
+A Pimp Named Slickback Writing
+Big Homie Writing Coalition
+CSULB Writing
+Cooking Gods
+CoronaChan Writing Group
+FGC Writing Corporation
+Flat Earth Writing
+
+Enter the Writing Group Name: 
+Flat Earth Writing
+Showing list of books for Flat Earth Writing
+
+Gravity: Does it Really Exist?
+Nothing We Believe In is Actually Right
+The Ice Walls
+
+Enter the name of the book: 
+The Ice Walls
+Successful deletion of The Ice Walls
+
+List of books under Flat Earth Writing left:
+Gravity: Does it Really Exist?
+Nothing We Believe In is Actually Right
+
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+5
+Displaying Book Titles:
+CECS: Disfunctional Chaos
+Cooking Water: Easier than You Think!
+Detecting a Big Homie: How to Be Safe
+GT Goku and How to Kill that Little Rat
+Gravity: Does it Really Exist?
+How to Be a Big Homie
+How to Defeat Corona-chan
+How to Get Money Fast
+How to Live Rent Free in the Head of an Opponent!
+How to Overcharge for Parking
+How to Synthesize Lasagna
+Nothing We Believe In is Actually Right
+The Daigo Parry and Why it Was Cool
+The Rap Game
+
+
+Menu For JDBC
+1): List all Writing Groups
+2): List all the data for a specified group
+3): List all publishers
+4): List all the data for a specified publisher
+5): List all book titles
+6): List the Data for a single book
+7): Insert a new book
+8): Insert a new publisher and update all books with new publisher
+9): Remove a specific book
+10): Quit
+Enter you choice: 
+10
+
+Quitting Menu!
+Goodbye!
+BUILD SUCCESSFUL (total time: 3 minutes 35 seconds)
