@@ -17,10 +17,4 @@ Write a JDBC program to support the following functions:
     This requirement is two separate operations. The idea is that a new publisher, (xyz) buys out an existing publisher (abc). After the new publisher is added to the database, all books that are currently published by abc will now be published by xyz.
     Remove a single book specified by the user 
 
-For all queries involving user input, you must use prepared statements
-You must be able to prove your results after each query
-Make sure to validate the data either through the java code or database constraints
-Make sure you handle any SQLExceptions that are thrown
-Use must use your NetBeans/Derby database for this project
-Make sure you have enough sample data to properly demonstrate your project
-The data can be fictional but it must be meaningful. I don't want to see Book One, Book Two, etc. 
+Folder includes sample output, java code, and sql to build tables.
